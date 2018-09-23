@@ -1,0 +1,10 @@
+uuid: 2e4df879-4f89-49e3-8b0a-ec078be6b7b4
+langcode: en
+status: true
+dependencies: {  }
+id: manager
+label: Manager
+weight: -8
+is_admin: null
+permissions:
+  - 'use text format full_html'

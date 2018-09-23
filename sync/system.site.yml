@@ -1,0 +1,15 @@
+uuid: 6e24db36-9f99-4391-ab47-778e3a90cdad
+name: Drupal8
+mail: brent@variantstudios.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
+mail_notification: ''
